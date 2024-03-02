@@ -1,2 +1,8 @@
 # github-final-project
-![image](https://github.com/MontaDON/github-final-project/assets/161085645/2ccf72ff-81e9-4e37-8de1-63a91e9873e0)
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
